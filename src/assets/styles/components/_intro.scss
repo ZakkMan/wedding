@@ -1,0 +1,20 @@
+.c-intro {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+
+  &__bg-image {
+    min-height: 100vh;
+    min-width: 100vw;
+    background: url('../images/photo1.jpg') no-repeat;
+    background-size: cover;
+    background-position: top center;
+    z-index: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+}
