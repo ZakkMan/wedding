@@ -1,0 +1,35 @@
+.c-heading {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+
+  &.__primary {
+    text-align: center;
+    position: relative;
+
+    &:after,
+    &:before {
+      content: '';
+      position: absolute;
+      top: 50%;
+      bottom: 50%;
+      height: 1px;
+      width: 2em;
+      background-color: #333;
+    }
+
+    &:before {
+      right: 120%;
+    }
+
+    &:after {
+      left: 120%;
+    }
+
+  }
+
+  &.__secondary {
+
+  }
+
+}

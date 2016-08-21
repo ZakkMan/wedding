@@ -1,7 +1,10 @@
-.c-intro {
+.p-intro {
   display: flex;
+  flex-direction: column;
   width: 100vw;
-  height: 100vh;
+  height: 95vh;
+  text-align: center;
+  margin-bottom: 10em;
 
   &__bg-image {
     min-height: 100vh;

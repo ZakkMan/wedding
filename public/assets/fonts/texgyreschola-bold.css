@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "TeXGyreSchola-Bold";
+    src: url("texgyreschola-bold.eot");
+    src: url("texgyreschola-bold.eot?#iefix") format("embedded-opentype"),
+         url("texgyreschola-bold.woff2") format("woff2"),
+         url("texgyreschola-bold.woff") format("woff"),
+         url("texgyreschola-bold.ttf") format("ttf"),
+         url("texgyreschola-bold.svg#TeXGyreSchola-Bold") format("svg");
+    font-style: normal;
+    font-weight: 700;
+}

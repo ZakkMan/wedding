@@ -1,0 +1,16 @@
+.p-page-section {
+  min-height: 45vh;
+  width: 80%;
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+
+  &.__column {
+    flex-direction: column;
+  }
+
+  &.__row {
+    flex-direction: row;
+  }
+
+}

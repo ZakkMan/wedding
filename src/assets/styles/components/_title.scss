@@ -1,12 +1,12 @@
 .c-title {
   text-transform: uppercase;
-  margin: auto auto 0.5em;
+  margin: auto auto 0.25em;
   font-size: 7em;
   line-height: 1;
-  font-family: 'Raleway', sans-serif;
+  font-family: $primary-font;
   font-weight: bolder;
   letter-spacing: 0.1em;
-  color: #333;  /* Fallback: assume this color ON TOP of image */
   z-index: 3;
   opacity: 0;
+  display: block;
 }

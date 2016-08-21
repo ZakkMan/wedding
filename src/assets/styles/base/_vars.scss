@@ -23,6 +23,9 @@ $tightWrapperWidth: 600px;    // width of a tighter wrapper for forms, etc.
 // Typography Variables
 //
 
+$primary-font: 'Avenir Next LT Pro', sans-serif;
+$secondary-font: 'TeX Gyre Schola', serif;
+
 $min-font-size: 14px;
 $max-font-size: 21px;
 $size-difference: $min-font-size - $max-font-size;
@@ -35,4 +38,4 @@ $h3: 1.777em;
 $h4: 1.333em;
 $h5: 1em;
 $h6: 0.5em;
-$p: 1.333em;
+$p: 1em;
