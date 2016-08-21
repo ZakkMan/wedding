@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "TeXGyreSchola-Regular";
+    src: url("texgyreschola-regular.eot");
+    src: url("texgyreschola-regular.eot?#iefix") format("embedded-opentype"),
+         url("texgyreschola-regular.woff2") format("woff2"),
+         url("texgyreschola-regular.woff") format("woff"),
+         url("texgyreschola-regular.ttf") format("ttf"),
+         url("texgyreschola-regular.svg#TeXGyreSchola-Regular") format("svg");
+    font-style: normal;
+    font-weight: regular;
+}

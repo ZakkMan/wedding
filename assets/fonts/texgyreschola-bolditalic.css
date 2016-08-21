@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "TeXGyreSchola-BoldItalic";
+    src: url("texgyreschola-bolditalic.eot");
+    src: url("texgyreschola-bolditalic.eot?#iefix") format("embedded-opentype"),
+         url("texgyreschola-bolditalic.woff2") format("woff2"),
+         url("texgyreschola-bolditalic.woff") format("woff"),
+         url("texgyreschola-bolditalic.ttf") format("ttf"),
+         url("texgyreschola-bolditalic.svg#TeXGyreSchola-BoldItalic") format("svg");
+    font-style: italic;
+    font-weight: bolditalic;
+}
