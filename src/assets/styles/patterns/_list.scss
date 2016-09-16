@@ -17,12 +17,10 @@
     align-items: center;
     flex-direction: column;
     text-decoration: none;
-    * {
-      color: $primary;
-    }
 
     .c-heading {
       position: relative;
+      color: inherit;
 
       &:after {
         content: '';
