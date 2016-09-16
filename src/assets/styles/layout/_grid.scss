@@ -1,14 +1,9 @@
 .l-row {
   display: flex;
-  flex-direction: row;
   width: 100%;
 }
 
 .l-col {
   flex: 1;
   display: flex;
-
-  &.__column {
-    flex-direction: column;
-  }
 }

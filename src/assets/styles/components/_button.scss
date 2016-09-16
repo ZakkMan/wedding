@@ -1,7 +1,39 @@
-.c-button {
+.c-btn {
   text-decoration: none;
-  color: inherit;
-  border: 1px solid currentColor;
-  padding: 0.5rem 1rem;
+  line-height: 1;
+  margin: 0;
+  color: $primary;
+  position: relative;
+  padding: 0.8em 2em;
   display: block;
+
+  &:after,
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    // width: 100%;
+    // height: 100%;
+    border: 2px solid $primary;
+    transition: all 300ms ease;
+  }
+
+  &:after {
+    transform: translate(4px, -4px)
+  }
+
+  &:before {
+    transform: translate(-4px, 4px)
+  }
+
+  &:hover {
+
+    &:before,
+    &:after {
+      transform: translate(0, 0)
+    }
+  }
 }
