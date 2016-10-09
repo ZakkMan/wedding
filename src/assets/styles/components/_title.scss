@@ -1,11 +1,41 @@
 .c-title {
+  text-align: center;
   text-transform: uppercase;
-  margin: auto auto 0.25em;
-  font-size: 7em;
+  margin: auto 0.25em;
+  font-size: 3.3em;
   line-height: 1;
   font-family: $secondary-font;
   font-weight: bolder;
-  letter-spacing: 0.1em;
   z-index: 3;
   display: block;
+  letter-spacing: 0.05em;
+  div:nth-child(5) {
+    width: 100%;
+  }
+}
+
+@media #{$smedium-up} {
+  .c-title {
+    font-size: 4.5em;
+    margin: auto auto 0.25em;
+
+    @media #{$landscape} {
+      div:nth-child(5) {
+        width: auto;
+      }
+    }
+  }
+}
+
+@media #{$medium-up} {
+  .c-title {
+    font-size: 5em;
+  }
+}
+
+@media #{$large-up} {
+  .c-title {
+    font-size: 7em;
+    letter-spacing: 0.1em;
+  }
 }

@@ -32,9 +32,11 @@
         background-color: $primary;
         transition: all 300ms ease;
       }
+
     }
 
     &:hover {
+
       .c-logo {
         transform: scale(1.1);
       }
@@ -42,7 +44,9 @@
       .c-heading:after {
         width: 100%;
       }
+      
     }
+
   }
 
 }
