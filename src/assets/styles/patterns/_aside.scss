@@ -1,0 +1,21 @@
+.p-aside {
+
+  .c-heading {
+    margin: auto;
+  }
+
+  .l-col:last-of-type {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .c-paragraph {
+    width: 100%;
+  }
+
+  .c-btn {
+    margin-top: 2em;
+  }
+}

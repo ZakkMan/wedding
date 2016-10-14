@@ -1,0 +1,14 @@
+body {
+  color: #333;
+  font-size: 18px;
+}
+
+.page-content {
+  width: 90%;
+  max-width: 1280px;
+  margin: 0 auto;
+
+  @media #{$medium-up} {
+    width: 80%;
+  }
+}
