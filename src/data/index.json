@@ -2,7 +2,19 @@
   "test": "This is a test",
   "whatToDo": [
     {
-      
+      "title": "Discover Eastern Market's Sights, Smells & Sounds",
+      "description": "Nestled in the heart of historic Capitol Hill just north of Barracks Row, Eastern Market is a must-visit for lovers of fresh, locally sourced food and drink, and arts and crafts lovers. Designed to serve as the neighborhood town center, this popular community hub has attracted an eclectic group of shoppers and foodies since 1873. Good to know: the market is closed on Mondays and opens to street vendors on weekends.",
+      "link": "https://washington.org/DC-guide-to/eastern-market"
+    },
+    {
+      "title": "13 Instagram-worthy Sights in Beautiful Georgetown",
+      "description": "If there’s one thing Georgetown has on lock, it’s gorgeous scenery. Between the rows of historic townhouses that line the shaded streets, the peaceful C&O Canal and the reflecting vista of the Potomac River, this neighborhood practically begs for an Instagram. Here are some to charm-filled spots that make for the ultimate in share-worthy shots.",
+      "link": "https://washington.org/visit-dc/best-places-instagram-in-georgetown-washington-dc"
+    },
+    {
+      "title": "10 Things to See & Do in Adams Morgan",
+      "description": "The diverse neighborhood of Adams Morgan is centered at the intersection of Columbia Road and 18th Street, sandwiched between U Street Corridor, Mount Pleasant, Kalorama, Dupont Circle, Columbia Heights, and Woodley Park. The area might be less than 5 square miles, but there’s a lot for you to explore.",
+      "link": "https://washington.org/visit-dc/things-see-and-do-adams-morgan"
     }
   ]
 }
