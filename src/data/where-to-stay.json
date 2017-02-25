@@ -1,0 +1,439 @@
+{
+  "locations": [
+    {
+      "title": "Capitol Hill",
+      "image": "assets/images/capitol-hill-presbyterian.JPG",
+      "characteristics": ["Historic", "Charming", "Walkable"],
+      "restaurants": [
+        {
+          "title": "Cafe Berlin",
+          "link": "https://washington.org/find-dc-listings/cafe-berlin"
+        },
+        {
+          "title": "Belga Cafe",
+          "link": "https://washington.org/find-dc-listings/belga-cafe"
+        },
+        {
+          "title": "Ambar",
+          "link": "http://www.ambarrestaurant.com/"
+        },
+        {
+          "title": "Acqua Al 2",
+          "link": "http://acquaal2dc.com/"
+        },
+        {
+          "title": "Hanks Oyster Bar",
+          "link": "http://hanksoysterbar.com/"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "The US Capitol",
+          "link": "https://washington.org/faq-how-do-i-visit-us-capitol"
+        },
+        {
+          "title": "The Supreme Court",
+          "link": "https://washington.org/find-dc-listings/supreme-court-united-states"
+        },
+        {
+          "title": "Eastern Market & the Flea Market",
+          "link": "https://washington.org/DC-guide-to/eastern-market"
+        },
+        {
+          "title": "US Botanical Garden",
+          "link": "https://washington.org/find-dc-listings/united-states-botanic-garden"
+        }
+      ],
+      "coffee": [
+        {
+          "title": "Bullfrog Bagels",
+          "link": "http://www.bullfrogbagels.com/"
+        },
+        {
+          "title": "Port City Java",
+          "link": "https://www.portcityjava.com/t-locations-other.aspx"
+        },
+        {
+          "title": "Peregrine Espresso",
+          "link": "http://peregrineespresso.com/"
+        }
+      ],
+      "articleRecommendations": [
+        {
+          "title": "Capitol Hill by Day and by Night",
+          "description": "With the U.S. Capitol as its beacon, Capitol Hill (lovingly named by Thomas Jefferson) has served as the center of politics in Washington since the early 19th century. But there is much more to the Hill than suited staffers and America’s most famous cast iron-domed structure. Hop off a Metro train at Eastern Market or Capitol South (both on the Blue, Orange and Silver lines) and begin a day filled with history, culture and dynamite eats.",
+          "link": "https://washington.org/visit-dc/guide-capitol-hill-day-and-night"
+        },
+        {
+          "title": "Capitol Hill Dining in Washington, DC",
+          "description": "Capitol Hill is home to the U.S. Capitol Building and the Supreme Court. By day, the neighborhood is buzzing with everyone from senators and Supreme Court justices to law clerks and Capitol Hill staffers as they go about the business of making and interpreting the laws. By night, the architecturally iconic neighborhood has made a name for itself as a focal point for culinary genius, with a number of nationally famous restaurants calling it home. On Capitol Hill, foodies will find one of DC’s most celebrated chefs, along with a stretch of must-try restaurants along Barracks Row.",
+          "link": "https://washington.org/places-to-eat/capitol-hill-barracks-row-washington-dc"
+        },
+        {
+          "title": "13 Things to See & Do in Capitol Hill",
+          "description": "It’s the center of the U.S. government, the center of the city and is a central hub for locals and visitors alike. Mini neighborhoods like Eastern Market and Barracks Row comprise Capitol Hill, highlighting its unique blend of federal and local diversions. Here are the things we think you should do in the neighborhood.",
+          "link": "https://washington.org/visit-dc/things-see-and-do-capitol-hill"
+        },
+        {
+          "title": "Discover Eastern Market's Sights, Smells & Sounds",
+          "description": "Nestled in the heart of historic Capitol Hill just north of Barracks Row, Eastern Market is a must-visit for lovers of fresh, locally sourced food and drink, and arts and crafts lovers. Designed to serve as the neighborhood town center, this popular community hub has attracted an eclectic group of shoppers and foodies since 1873. Good to know: the market is closed on Mondays and opens to street vendors on weekends.",
+          "link": "https://washington.org/DC-guide-to/eastern-market"
+        }
+      ]
+    },
+    {
+      "title": "Dupont Circle",
+      "image": "assets/images/dupont.JPG",
+      "characteristics": ["Iconic", "Local", "Walkable"],
+      "restaurants": [
+        {
+          "title": "Sushi Taro",
+          "link": "http://sushitaro.com/"
+        },
+        {
+          "title": "The Riggsby",
+          "link": "https://washington.org/find-dc-listings/riggsby"
+        },
+        {
+          "title": "Krammer Books",
+          "link": "https://washington.org/find-dc-listings/kramerbooks-afterwords-cafe"
+        },
+        {
+          "title": "Urbana",
+          "link": "https://washington.org/find-dc-listings/urbana"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "The Phillips Collection",
+          "link": "https://washington.org/find-dc-listings/phillips-collection"
+        },
+        {
+          "title": "The Anderson House",
+          "link": "https://washington.org/find-dc-listings/anderson-house-american-revolution-institute-society-cincinnati"
+        },
+        {
+          "title": "Krammer Books",
+          "link": "https://washington.org/find-dc-listings/kramerbooks-afterwords-cafe"
+        },
+        {
+          "title": "National Geographic Museum",
+          "link": "http://www.nationalgeographic.org/dc/"
+        },
+        {
+          "title": "DC Improv",
+          "link": "http://www.dcimprov.com/"
+        }
+      ],
+      "coffee": [
+        {
+          "title": "Dolcezza",
+          "link": "https://washington.org/find-dc-listings/dolcezza-gelato-coffee"
+        },
+        {
+          "title": "Filter",
+          "link": "http://www.filtercoffeehouse.com/"
+        },
+        {
+          "title": "Teaism",
+          "link": "https://www.teaism.com/"
+        },
+        {
+          "title": "Krammer Books",
+          "link": "https://washington.org/find-dc-listings/kramerbooks-afterwords-cafe"
+        }
+      ],
+      "articleRecommendations": [
+        {
+          "title": "11 Things to See & Do in Dupont Circle",
+          "description": "Dupont Circle offers a little something for everyone. An array of unique shops and exciting restaurants along Connecticut Avenue, one of the busy streets in the neighborhood, is exciting enough to keep you going all day. You’ll also discover dozens of bistros, bars, boutiques and museums throughout this exciting neighborhood.",
+          "link": "https://washington.org/DC-focus-on/dupont-circle-attractions"
+        },
+        {
+          "title": "Dupont Circle by Day & by Night",
+          "description": "Dupont Circle stands out as a cosmopolitan jewel in DC’s distinctive collection of neighborhoods. With a famous traffic circle and fountain at its center, the Dupont Circle neighborhood has been a vital DC community since the late 19th century, and continues to be a hot spot for residents and visitors of all ages. Getting there is easy. Take the Metro to the Red Line stop, ride the Dupont Circle-Georgetown-Rosslyn DC Circulator bus route, use Capital Bikeshare or walk. Here’s how we suggest you spend a full day and night in Dupont.",
+          "link": "https://washington.org/visit-dc/dupont-circle-day-night"
+        }
+      ]
+    },
+    {
+      "title": "Georgetown",
+      "image": "assets/images/georgetown.jpg",
+      "characteristics": ["Historic", "Charming", "Luxurious"],
+      "restaurants": [
+        {
+          "title": "Malmaison",
+          "link": "https://washington.org/find-dc-listings/malmaison"
+        },
+        {
+          "title": "Fiola Mare",
+          "link": "https://www.fiolamaredc.com/"
+        },
+        {
+          "title": "Pinstripes",
+          "link": "https://washington.org/find-dc-listings/pinstripes"
+        },
+        {
+          "title": "Chez Billy Sud",
+          "link": "http://www.chezbillysud.com/"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Blues Alley Jazz",
+          "link": "https://washington.org/find-dc-listings/blues-alley-jazz"
+        },
+        {
+          "title": "Kennedy Center",
+          "link": "https://washington.org/find-dc-listings/john-f-kennedy-center-performing-arts"
+        },
+        {
+          "title": "Canoe around the Monuments",
+          "link": "http://www.thompsonboatcenter.com/"
+        }
+      ],
+      "coffee": [
+        {
+          "title": "Baked & Wired",
+          "link": "https://bakedandwired.com/"
+        },
+        {
+          "title": "Dolcezza",
+          "link": "http://dolcezzagelato.com/"
+        },
+        {
+          "title": "Simit & Smith",
+          "link": "http://www.simitandsmith.com/"
+        },
+        {
+          "title": "Grace Street Coffee",
+          "link": "http://www.gracestcoffee.com/"
+        }
+      ],
+      "articleRecommendations": [
+        {
+          "title": "13 Instagram-worthy Sights in Beautiful Georgetown",
+          "description": "If there’s one thing Georgetown has on lock, it’s gorgeous scenery. Between the rows of historic townhouses that line the shaded streets, the peaceful C&O Canal and the reflecting vista of the Potomac River, this neighborhood practically begs for an Instagram. Here are some to charm-filled spots that make for the ultimate in share-worthy shots.",
+          "link": "https://washington.org/visit-dc/best-places-instagram-in-georgetown-washington-dc"
+        },
+        {
+          "title": "Georgetown Dining in Washington, DC",
+          "description": "The spires of Georgetown University’s classic buildings set the scene for DC’s oldest neighborhood, which today attracts a cross-section of visitors, including pastel-loving preppy college students, Washington’s old guard and young professionals who want to unwind at the neighborhood’s waterfront restaurants. Gourmands in search of great dining will find that high-end options abound in this thriving university neighborhood. ",
+          "link": "https://washington.org/places-to-eat/georgetown-washington-dc"
+        }
+      ]
+    },
+    {
+      "title": "Shaw",
+      "image": "assets/images/u-street.jpg",
+      "characteristics": ["Hip", "Historic", "Night Life"],
+      "restaurants": [
+        {
+          "title": "Thally",
+          "link": "http://www.thallydc.com/"
+        },
+        {
+          "title": "Mockingbird Hill",
+          "link": "http://dc.eater.com/venue/mockingbird-hill"
+        },
+        {
+          "title": "Southern Efficiency",
+          "link": "http://www.whiskeyhome.com/"
+        },
+        {
+          "title": "Eat the Rich",
+          "link": "http://www.etrbar.com/"
+        },
+        {
+          "title": "Right Proper Brewing Company",
+          "link": "https://washington.org/find-dc-listings/right-proper-brew-company"
+        },
+        {
+          "title": "Sundevich",
+          "link": "http://sundevich.com/"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "African-American Civil War Memorial",
+          "link": "https://washington.org/find-dc-listings/african-american-civil-war-memorial"
+        },
+        {
+          "title": "Dacha ",
+          "link": "https://dachadc.com/"
+        },
+        {
+          "title": "",
+          "link": ""
+        }
+      ],
+      "coffee": [
+        {
+          "title": "La Colombe",
+          "link": "https://www.lacolombe.com/"
+        },
+        {
+          "title": "Compass Coffee",
+          "link": "http://www.compasscoffee.com/"
+        }
+      ],
+      "articleRecommendations": [
+        {
+          "title": "Shaw Dining in Washington, DC",
+          "description": "A short walk from Howard University from the north or Mount Vernon Square from the south, the ultra hot neighborhood of Shaw has made a name for itself with its mix of eclectic retail, raved about restaurants and bragging rights to some very cool African American jazz history. No national chains here – instead, foodies will find a plethora of must-dine neighborhood restaurants that are rapidly making a name for themselves. ",
+          "link": "https://washington.org/places-to-eat/shaw-neighborhood-washington-dc"
+        },
+        {
+          "title": "10 Things to see & do in Shaw",
+          "description": "African-American history runs deep in Shaw, a rowhouse-, restaurant- and retail-filled neighborhood northeast of the White House. Duke Ellington was born here, and he and other stars of “Black Broadway” played at nearby theaters that are still standing. These days, the zone is just as well known for trendy restaurants, indie boutiques and a happening bar scene. One thing’s for sure, it’s one of the most interesting places in cap city to be right now.",
+          "link": "https://washington.org/visit-dc/things-see-and-do-shaw-neighborhood-washington"
+        }
+      ]
+    },
+    {
+      "title": "Adams Morgan",
+      "image": "assets/images/adams-morgan.jpg",
+      "characteristics": ["Lively", "Diverse", "Night Life"],
+      "restaurants": [
+        {
+          "title": "Mintwood Place",
+          "link": "http://www.mintwoodplace.com/"
+        },
+        {
+          "title": "Roofers Union",
+          "link": "https://washington.org/find-dc-listings/roofers-union"
+        },
+        {
+          "title": "The Diner",
+          "link": "http://www.dinerdc.com/"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Studio DC Yoga",
+          "link": "http://www.thestudiodc.com/"
+        },
+        {
+          "title": "Morton Fine Art",
+          "link": "https://www.mortonfineart.com/"
+        },
+        {
+          "title": "Urban Dwell",
+          "link": "http://www.urbandwelldc.com/"
+        },
+        {
+          "title": "Hudson & Crane",
+          "link": "http://www.hudsonandcrane.com/"
+        },
+        {
+          "title": "Madam's Organ",
+          "link": "http://www.madamsorgan.com/"
+        }
+      ],
+      "coffee": [
+        {
+          "title": "Tryst",
+          "link": "http://www.trystdc.com/"
+        },
+        {
+          "title": "Philz Coffee",
+          "link": "http://www.philzcoffee.com/"
+        }
+      ],
+      "articleRecommendations": [
+        {
+          "title": "10 Things to See & Do in Adams Morgan",
+          "description": "The diverse neighborhood of Adams Morgan is centered at the intersection of Columbia Road and 18th Street, sandwiched between U Street Corridor, Mount Pleasant, Kalorama, Dupont Circle, Columbia Heights, and Woodley Park. The area might be less than 5 square miles, but there’s a lot for you to explore.",
+          "link": "https://washington.org/visit-dc/things-see-and-do-adams-morgan"
+        },
+        {
+          "title": "Adams Morgan Dining in Washington, DC",
+          "description": "Adams Morgan is known for its millennial-friendly scene that features a diverse mix of bars and lounges along with hip stores selling clothing, furniture and records. However, the neighborhood’s burgeoning restaurant scene (which recently scored a Michelin star for one of its restaurants) adds another reason to visit the cultural hub.",
+          "link": "https://washington.org/places-to-eat/adams-morgan-washington-dc"
+        },
+        {
+          "title": "Adams Morgan by Day & by Night",
+          "description": "Deriving its name from two formerly segregated elementary schools, Adams Morgan is a culturally diverse neighborhood brimming with creatives, salsa fans and revelers in this come-as-you-are nightlife hot spot. The main thoroughfare, 18th Street, features a mix of cool cat bars, raucous music venues and Latin-infused lounges. Locals love the neighborhood for its tree-lined streets, late-night scene, quirky boutiques and global cuisine.",
+          "link": "https://washington.org/visit-dc/adams-morgan-day-night"
+        }
+      ]
+    },
+    {
+      "title": "H Street",
+      "image": "assets/images/h-st.jpg",
+      "characteristics": ["Artsy", "Energetic", "Night Life"],
+      "restaurants": [
+        {
+          "title": "Toki Underground",
+          "link": "https://www.tokiunderground.com/#tokiunderground"
+        },
+        {
+          "title": "Argonaut",
+          "link": "Argonaut"
+        },
+        {
+          "title": "Le Grenier",
+          "link": "http://legrenierdc.com/"
+        },
+        {
+          "title": "Pursuit Wine Bar",
+          "link": "http://www.thepursuitwinebar.com/"
+        }
+      ],
+      "thingsToDo": [
+        {
+          "title": "Maketto",
+          "link": "http://maketto1351.com/"
+        },
+        {
+          "title": "Atlast Performing Arts Center",
+          "link": "http://www.atlasarts.org/"
+        },
+        {
+          "title": "Rock & Roll Hotel",
+          "link": "http://www.rockandrollhoteldc.com/"
+        },
+        {
+          "title": "Gallery O on H",
+          "link": "http://www.galleryoonh.com/"
+        }
+      ],
+      "coffee": [
+        {
+          "title": "Bullfrog Bagels",
+          "link": "http://www.bullfrogbagels.com/"
+        },
+        {
+          "title": "The Wydown",
+          "link": "http://www.thewydown.com/"
+        },
+        {
+          "title": "Dangerously Delicious Pies",
+          "link": "http://www.dangerouspiesdc.com/"
+        }
+      ],
+      "articleRecommendations": [
+        {
+          "title": "10 Places to Eat & Drink on H Street NE",
+          "description": "From Ethiopian to Lebanese to Mexican, the food along H Street is a melting pot of flavors. Exploring the diverse neighborhood means you will work up quite the appetite. With that said, here are 10 awesome food and drink options to get you started.",
+          "link": "https://washington.org/visit-dc/where-to-eat-and-drink-h-street-ne-washington-dc"
+        },
+        {
+          "title": "H Street NE Dining in Washington, DC",
+          "description": "It may be the Atlas Performing Arts Center that anchors the H Street NE corridor and kicked off the area’s renewal, but the neighborhood known for its late night bar and club scene is also quietly making a name for itself among informed foodies. On H Street, you’ll find options from DC fave, chef Erik Bruner-Yang, along with plenty of places to get a great meal before or after a night in this up-and-coming corridor.",
+          "link": "https://washington.org/places-to-eat/h-street-ne-washington-dc"
+        },
+        {
+          "title": "H Street History & Renewal",
+          "description": "Washington, DC’s H Street corridor was built in 1849. Streetcars followed 23 years later, creating a successful business center and encouraging development in the neighborhood. They ran up and down the street for exactly 100 years until buses replaced them in 1949. Throughout the early and mid-1900s, the area was one of the city’s commercial hubs, known for its art and dining scene, much like it is now. It was even lined with department stores, including DC’s first Sears.",
+          "link": "https://washington.org/visit-dc/h-street-corridor-ne-history-and-revival"
+        },
+        {
+          "title": "H Street NE by Day & by Night",
+          "description": "Anchored by the Atlas Theater since 1938, H Street NE has recently returned to its roots as an arts and cultural center. In early 2005, the theater was reincarnated as the Atlas Performing Arts Center, and new restaurants, bars and businesses began to follow. Today, H Street has turned into one of the nightlife centers of the city, with music venues, bars and plenty of options for late-night eats.",
+          "link": "https://washington.org/visit-dc/what-to-do-h-street-corridor-ne-day-night"
+        }
+      ]
+    }
+  ]
+}

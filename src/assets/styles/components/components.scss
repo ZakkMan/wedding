@@ -7,10 +7,8 @@
     Each component should be separated into two parts: the
     component's structure and it's various skins.
  */
-@import 'title';
-@import 'subtitle';
+@import 'typography';
 @import 'page-content';
-@import 'heading';
-@import 'paragraph';
 @import 'button';
 @import 'logo';
+@import "post-list";

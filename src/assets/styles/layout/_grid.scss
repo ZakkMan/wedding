@@ -6,7 +6,6 @@
 
 .l-col {
   width: 100%;
-  display: flex;
 }
 
 @media #{$smedium-up}, #{$landscape} {
@@ -19,5 +18,5 @@
     width: auto;
     flex: 1;
   }
-  
+
 }

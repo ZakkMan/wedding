@@ -1,7 +1,25 @@
-/*
-    Views
-    This directory is for styles specific to a single view
-    that affect multiple patterns within them. For instance,
-    if a pattern has slightly different styling when it appears
-    on the homepage, those differences would be described here.
- */
+.v-index {
+
+  .p-page-section a.c-btn {
+    margin-top: 2.5em;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+
+.v-where-to-stay {
+
+  .p-hero:before {
+    content: '';
+    background-image: url('../../assets/images/logan-circle.jpg')
+  }
+}
+
+.v-schedule {
+
+  .p-hero:before {
+    content: '';
+    background-image: url('../../assets/images/capitol-hill-presbyterian.JPG');
+  }
+}

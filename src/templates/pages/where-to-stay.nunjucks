@@ -1,0 +1,88 @@
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+
+<div class="p-hero">
+  <h1 class="c-page-title">Where to Stay</h1>
+  <p>Accomodation options in the district are plentiful, as are incredible neighborhoods to visit</p>
+</div>
+
+<div class="p-page-section" id="where-to-stay-intro">
+  <p>
+    There is no wrong choice in where to stay in the District - every neighborhood has it’s own unique charm and collection of cultural activities. We’ve broken out the neighborhoods we recommend searching in, each with a list of our favorite restaurants, museums and art galleries. Despite the occasional swamp person, we love DC and we think you will to!
+  </p>
+</div>
+
+<div class="p-page-section p-neighborhoods">
+
+  {% for item in locations %}
+    <div class="p-neighborhood" id={{ item.title | lower | replace(" ", "-") }}>
+
+      <a class="p-neighborhood--header" href="https://www.airbnb.com/s/{{ item.title | replace(" ", "-") }}--DC--United-States?guests=1&adults=1&children=0&infants=0&source=bb&page=1&allow_override%5B%5D=&place_id=ChIJhzm8Qu-3t4kRKRLJue2TY28&ss_id=1rauzagl&s_tag=5VRFNxpC" target="_blank">
+        <img src="{{item.image}}" alt="">
+        <div class="p-neighborhood--header--content">
+          <h1 class="c-heading">{{item.title}}</h1>
+          <ul>
+            {% for characteric in item.characteristics %}
+            <li>{{characteric}}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </a>
+
+      <div class="p-neighborhood--body">
+        <div class="l-row">
+
+          <div class="l-col">
+            <h4>Favorite Restaurants</h4>
+            <p>
+              {% for restaurant in item.restaurants %}
+                <a href="{{restaurant.link}}" target="_blank">{{restaurant.title}}</a>
+              {% endfor %}
+            </p>
+          </div>
+
+
+          <div class="l-col">
+            <h4>Things to Do</h4>
+            <p>
+              {% for thing in item.thingsToDo %}
+                <a href="{{thing.link}}" target="_blank">{{thing.title}}</a>
+              {% endfor %}
+            </p>
+          </div>
+
+
+          <div class="l-col">
+            <h4>Where to get Coffee</h4>
+            <p>
+              {% for cafe in item.coffee %}
+                <a href="{{cafe.link}}" target="_blank">{{cafe.title}}</a>
+              {% endfor %}
+            </p>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="p-neighborhood--articles">
+
+        <ul class="c-post-list">
+          {% for article in item.articleRecommendations %}
+            <a href="{{article.link}}" target="_blank">
+              <li class="c-post-item">
+                <h3 class="c-subheading">{{article.title}}</h3>
+                <p>{{article.description}}</p>
+              </li>
+            </a>
+          {% endfor %}
+        </ul>
+
+      </div>
+
+    </div>
+  {% endfor %}
+
+</div>
+
+{% endblock %}

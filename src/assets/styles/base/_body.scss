@@ -1,6 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
-  color: #333;
+  color: $black;
   font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a,
+p {
+  color: $black;
 }
 
 .page-content {

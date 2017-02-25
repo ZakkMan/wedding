@@ -1,0 +1,70 @@
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+
+<div class="p-hero">
+  <h1 class="c-page-title">Wedding Program</h1>
+  <p>The Big Weekend has arrived! Below, you’ll find the program for the weekend and - most importantly - the Big Day!</p>
+</div>
+
+<div class="p-page-section">
+  <h3 class="c-heading--primary">Thursday</h3>
+  <table>
+    <tbody>
+      <tr>
+        <th>11:00</th>
+        <td><p>Private Tour of the Sculpture Garden with recommendations on what to see next</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="p-page-section">
+  <h3 class="c-heading--primary">Friday</h3>
+  <table>
+    <tbody>
+      <tr>
+        <th>8:00</th>
+        <td><p>Private tour of the Mall and the monuments.</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="p-page-section">
+  <h3 class="c-heading--primary">Saturday</h3>
+  <table>
+    <tbody>
+      <tr>
+        <th>5:00</th>
+        <td>
+          <p>Arrive at the Church</p>
+          <p>
+            201 4th St SE, <br>
+            Washington, DC <br>
+            20003 <br>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <th>5:30</th>
+        <td>
+          <p>Ceremony begins!</p>
+          <p>Officient: Guthrie Graves-Fitzsimmons</p>
+          <p>Bridal Party: Lauren Aitken, Meghan McHaney, Iona McHaney, Steven Moss, Lauren Moore, Stephanie Ariaga, Zoe Fleischmann</p>
+          <p>Groom Party: Roland Hartung, Francesca Cavalli, Nick Florko, Max Gibbons, Christopher Fleischmann, Noah Fleischmann</p>
+        </td>
+      </tr>
+      <tr>
+        <th>6:00</th>
+        <td><p>Make our way to Eastern Market en masse for food, drink and dancing!</p></td>
+      </tr>
+      <tr>
+        <th>12:00</th>
+        <td><p>Reception gets shut down by the cops and we have to find an after party venue</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+{% endblock %}

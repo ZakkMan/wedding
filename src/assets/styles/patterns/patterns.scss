@@ -10,3 +10,30 @@
 @import 'aside';
 @import 'list';
 @import 'closing';
+@import 'footer';
+@import 'hero';
+@import 'neighborhood';
+
+#homepage-intro {
+  .l-col a {
+    display: block;
+    margin: auto;
+    text-align: center;
+    transition: all 300ms ease;
+
+    &:hover {
+      background-color: rgba($primary, 0.1);
+    }
+  }
+
+  .c-heading {
+    margin: 2rem 0;
+  }
+}
+
+#homepage-where-to-stay {
+
+  a.c-btn {
+    // margin: 0 auto;
+  }
+}

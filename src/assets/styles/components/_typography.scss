@@ -1,3 +1,21 @@
+.c-heading {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.c-heading--primary {
+  border-bottom: 1px solid $black;
+  margin-bottom: 1.5em;
+}
+
+.c-paragraph {
+  margin: 0 auto;
+  text-align: center;
+  max-width: 750px;
+}
+
 .c-title {
   text-align: center;
   text-transform: uppercase;
@@ -38,4 +56,16 @@
     font-size: 7em;
     letter-spacing: 0.1em;
   }
+}
+
+.c-subtitle {
+  font-family: $secondary-font;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+
+.c-page-title {
+  margin-bottom: 0.5rem;
+  text-align: left;
 }

@@ -1,24 +1,6 @@
-<!doctype html>
-<html class="no-js" lang="">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+{% extends "layout.nunjucks" %}
 
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <!-- Place favicon.ico in the root directory -->
-
-        <link rel="stylesheet" href="/assets/styles/main.css">
-    </head>
-    <body class="v-index">
-        <!--[if lt IE 9]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-
-        <main id="content">
-          
+{% block content %}
 
 <div class="p-intro">
     <div class="p-intro__bg-image" id="intro-image"></div>
@@ -82,52 +64,4 @@
    <a href="/schedule.html" class="c-btn">Schedule</a>
 </div>
 
-
-          <footer id="footer">
-  <div class="l-row">
-    <div class="l-col">
-      <h3 class="c-heading"><a href="/">Zakk & Sarah</a></h3>
-      <p>
-        May 6, 2017
-      </p>
-      <p>
-        Eastern Market <br>
-        225 7th St SE <br>
-        Washington, DC <br>
-        20003
-      </p>
-    </div>
-    <div class="l-col">
-      <h3 class="c-heading"><a href="https://goo.gl/forms/f6ZeT5fPSJBkUUsw2">RSVP</a></h3>
-      <h3 class="c-heading"><a href="https://www.zola.com/registry/zakkandsarah">Registry</a></h3>
-      <h3 class="c-heading"><a href="/schedule.html">Schedule</a></h3>
-    </div>
-    <div class="l-col">
-      <h3 class="c-heading"><a href="/where-to-stay.html">Where to Stay</a></h3>
-      <ul>
-        <li><a href="/where-to-stay.html#capitol-hill">Capitol Hill</a></li>
-        <li><a href="/where-to-stay.html#dupont-circle">Dupont</a></li>
-        <li><a href="/where-to-stay.html#shaw">Shaw</a></li>
-        <li><a href="/where-to-stay.html#georgetown">Georgetown</a></li>
-        <li><a href="/where-to-stay.html#adams-morgan">Adams Morgan</a></li>
-        <li><a href="/where-to-stay.html#h-street">H Street</a></li>
-      </ul>
-    </div>
-    <div class="l-col">
-      <h3 class="c-heading">What to Do</h3>
-      <ul>
-        <li><a href="">Mural Tour of Shaw</a></li>
-        <li><a href="">Air & Space Museum</a></li>
-        <li><a href="">National Portrait Gallery</a></li>
-        <li><a href="">Monument Tour</a></li>
-      </ul>
-    </div>
-  </div>
-</footer>
-
-        </main>
-
-
-        <script src="/assets/scripts/main.min.js"></script>
-    </body>
-</html>
+{% endblock %}
